@@ -8,7 +8,7 @@
 |22.04 ~ 22.12|2022 산학 협력 프로젝트|교육용 AI Agent 개발|2022 SW 인재 페스티벌 기업상(SKT) 수상🏆 <br>S-TOP 2023 SungKyun Tech. Open Party 대상 수상 🏆|[SW 인재 페스티벌](https://www.youtube.com/watch?v=h8EA2xFZn30)<br><br>[성균관대학교 S-TOP](https://s-top.cs.skku.edu/s-top/6)|
 |22.08 ~ 22.11|2022 메타버스 솔루션 챌린지|MannerVerse: 어린이를 위한 바른말 메타버스|과학기술정보통신부 장관상 🏆|[메타버스 솔루션 챌린지](https://www.youtube.com/watch?v=iPJMPqwRrvg)|
 |23.01 ~ 23.02|라이징 테스트(iOS)|인스타그램 클론 코딩|수료|[instagram-ios](https://github.com/Taerogrammer/instagram-ios)|
-
+|23.04|2023 Swift Student Challenge|2023 Swift Student Challenge|2023 Swift Student Challenge Winner 🏆|[Swift-Student-Challenge](https://developer.apple.com/wwdc23/swift-student-challenge/)
 
 ## Tech
 <img src="https://img.shields.io/badge/iOS-000000?style=plastic&&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=platstic&logo=Swift&logoColor=white"/> 
