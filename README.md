@@ -1,7 +1,5 @@
 🧑🏻‍💻 **Introduce**
 
-<br>
-
 > - **협업**을 중시합니다.
 > - 모든 프로젝트에 **열정**적으로 임합니다.
 > - 팀원들 간의 **화합**과 **소통**을 중시합니다.
@@ -18,8 +16,6 @@
 <br>
 
 🧐 **Projects**
-
-<br>
 
 > - [2022 산학 협력 프로젝트](https://github.com/skku-woongjin#guide-agent) | 성균관대학교, 웅진씽크빅 | 교육용 AI Agent 개발 | 22.04 ~ 22.12
 > - [2022 메타버스 솔루션 챌린지](https://www.youtube.com/watch?v=iPJMPqwRrvg) | (사)소프트웨어교육혁신센터 | MannerVerse : 어린이를 위한 바른말 메타버스 | 22.08 ~ 22.11
