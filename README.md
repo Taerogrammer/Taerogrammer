@@ -23,10 +23,10 @@
 
 <br>
 <br>
-
+https://github.com/Taerogrammer/swift-student-challenge-2023
 🏆 **Awards**
 
-> - **[2023 Swift Student Challenge - Winner](https://developer.apple.com/wwdc23/swift-student-challenge/)** | Apple
+> - **[2023 Swift Student Challenge - Winner](https://github.com/Taerogrammer/swift-student-challenge-2023)** | Apple
 > - **[2022 메타버스 솔루션 챌린지 - 최우수상(과학기술정보통신부 장관상)](https://www.youtube.com/watch?v=iPJMPqwRrvg)** | (사)소프트웨어교육혁신센터
 > - **[S-TOP 2023 SungKyun Tech. Open Party - 대상](https://s-top.cs.skku.edu/s-top/6)** | 성균관대학교
 > - **[2022 SW 인재 페스티벌 - 기업상(SKT)](https://www.youtube.com/watch?v=h8EA2xFZn30)** | SW중심대학협의회
