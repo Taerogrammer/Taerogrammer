@@ -23,7 +23,7 @@
 
 <br>
 <br>
-https://github.com/Taerogrammer/swift-student-challenge-2023
+
 🏆 **Awards**
 
 > - **[2023 Swift Student Challenge - Winner](https://github.com/Taerogrammer/swift-student-challenge-2023)** | Apple
