@@ -17,7 +17,6 @@
 
 🧐 **Projects**
 
-> - [인스타그램 iOS 클론 코딩](https://github.com/Taerogrammer/instagram-ios) | 라이징 캠프 | iOS 클론 코딩 | 23.01 ~ 23.02
 > - [2022 메타버스 솔루션 챌린지](https://www.youtube.com/watch?v=iPJMPqwRrvg) | (사)소프트웨어교육혁신센터 | MannerVerse : 어린이를 위한 바른말 메타버스 | 22.08 ~ 22.11
 > - [2022 산학 협력 프로젝트](https://github.com/skku-woongjin#guide-agent) | 성균관대학교, 웅진씽크빅 | 교육용 AI Agent 개발 | 22.04 ~ 22.12
 
