@@ -44,30 +44,6 @@
 - 오늘의 셔틀 탑승 여부와 셔틀버스 위치를 신속하게 확인해요!
 
 <br>
-
-<img width="25" alt="테링" src="https://github.com/DeveloperAcademy-POSTECH/MC2-morning-Team12-DreamLog/assets/104834390/00a8f72c-55e5-4a66-9c79-41374b173305"> **[Tering](https://apps.apple.com/kr/app/tering/id6464368312)**
-
-  ***'테니스 기록을 저장하고 나의 성장 과정을 자랑해보세요!'***
-  - 정확한 테니스 자세를 배우고 싶은, 테니스 초보자를 위한 스윙 감지 앱
-  - Tering를 통해 자세를 피드백 받고, 내 스윙 점수를 기록해보세요!
-
-<br>
-
-<img width="25" alt="해찌" src="https://github.com/DeveloperAcademy-POSTECH/MC2-morning-Team12-DreamLog/assets/104834390/e994ce0b-4d0b-41f9-b7b4-64ee3852f16b"> **[산책해찌](https://apps.apple.com/kr/app/%EC%82%B0%EC%B1%85%ED%95%B4%EC%B0%8C/id6450047058)**
-
-  ***'집에서 나와 해찌가 추천해주는 동네 곳곳을 산책해봐요!'***
-  - 집 밖을 나가기 귀찮고 싫은 사람들을 위해, 아니 나갈 이유가 없지만, 나가고 싶은 사람들을 위해!
-  - 산책해찌와 즐거운 동네 산책을 즐겨보세요!
-
-<br>
-
-<img width="30" alt="DreamLog" src="https://github.com/DeveloperAcademy-POSTECH/MC2-morning-Team12-DreamLog/assets/104834390/69cc5866-061f-42dc-9d29-b9b3db4ee33f"> **[DreamLog](https://apps.apple.com/kr/app/dreamlog/id6449157906)**
-
-  ***‘너의 목표 지속을 응원한다!’***
-  - 드림보드를 통해 목표를 가시화하여 미래에 대한 목표를 잃지 않고 스스로를 응원을 돕는 앱입니다.
-  - 나에게 주는 응원을 적어보세요.
-
-<br>
 <br>
 
 💻 **Tech**
