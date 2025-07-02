@@ -1,27 +1,17 @@
-🧑🏻‍💻 **Introduce**
+## Introduce
 
 일상생활의 불편함을 기술로 해결하는 iOS 개발자 김태형입니다.  
 플랫폼의 제약을 이해하고, 사용자에게 실질적인 가치를 주는 개발을 지향합니다.  
 Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 프론트엔드 등 다양한 환경에 빠르게 적응하며 실전 경험을 쌓았습니다.
 
-<br>
-<br>
+<br><br>
 
-📚 **Education**
+## Education
 
 > - [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) | 2nd | Tech | 23.03 ~ 23.12
 > - [성균관대학교 소프트웨어학과](https://cse.skku.edu/cse/index.do) | 22.03 ~
 
-<br>
-<br>
-
-🧐 **Projects**
-
-> - [2022 메타버스 솔루션 챌린지](https://www.youtube.com/watch?v=iPJMPqwRrvg) | (사)소프트웨어교육혁신센터 | MannerVerse : 어린이를 위한 바른말 메타버스 | 22.08 ~ 22.11
-> - [2022 산학 협력 프로젝트](https://github.com/skku-woongjin#guide-agent) | 성균관대학교, 웅진씽크빅 | 교육용 AI Agent 개발 | 22.04 ~ 22.12
-
-<br>
-<br>
+<br><br>
 
 ## Awards
 
@@ -32,7 +22,7 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 | SW 인재 페스티벌 | 기업상 (SKT) | SW중심대학협의회 | 2022.12 | BERT 기반 AI 챗봇 및<br>영어 학습 게임 구현 |
 | 메타버스 솔루션 챌린지 | 최우수상 (과기정통부 장관상) | SW교육혁신센터 | 2022.11 | Unity 기반 메타버스 플랫폼 개발,<br>어린이 언어 습관 개선 서비스 |
 
-<br/>
+<br><br>
 
 ## Projects
 
@@ -63,29 +53,15 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 
 ---
 
-### [카뮤 (Carmu)](https://apps.apple.com/kr/app/카뮤-carmu/id6467243718)  
+### 카뮤 (Carmu)  
 `UIKit`, `Firebase (Cloud Functions, Messaging, Realtime DB)`  
 **셔틀 탑승자와 기사 간 실시간 소통 도우미 앱 (출시)**  
 - 실시간 셔틀 위치 및 탑승 여부 공유 기능  
 - Firebase 기반 서버리스 푸시 구조 및 실시간 메시지 처리 적용  
 > ⏱️ 2023.09 ~ 2023.12 (6인 팀 개발)
 
+<br><br>
 
-
-
-<br><br><br>
-
-🍎 **Apps**
-
-
-<img width="25" alt="카뮤" src="https://github.com/DeveloperAcademy-POSTECH/MC2-morning-Team12-DreamLog/assets/104834390/8dd9d00a-cfcd-4d5e-8408-d3701772d7bd"> **[카뮤](https://apps.apple.com/kr/app/%EC%B9%B4%EB%AE%A4-carmu/id6467243718)**
-
-***'셔틀 서비스의 손쉬운 소통 도우미!'***
-- 탑승자와 기사님 간의 간편한 소통으로 셔틀 운행을 도와줘요!
-- 오늘의 셔틀 탑승 여부와 셔틀버스 위치를 신속하게 확인해요!
-
-<br>
-<br>
 
 ## Tech Stack
 
