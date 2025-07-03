@@ -15,25 +15,16 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 <a href="https://github.com/Taerogrammer"><img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<br><br>
+<br>
 
 ## Education
 
-> - [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) | Tech | 23.03 ~ 23.12
-> - [성균관대학교](https://cse.skku.edu/cse/index.do)   | 소프트웨어학과 | 22.03 ~
+> - [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/)  
+>   Tech | 23.03 ~ 23.12
+> - [성균관대학교](https://cse.skku.edu/cse/index.do)  
+>   소프트웨어학과 | 22.03 ~
 
-<br><br>
-
-## Awards
-
-| 수상명 | 수상 구분 | 주최/기관 | 수상 일자 | 설명 |
-|--------|------------|-----------|------------|------|
-| Swift Student Challenge | Winner | Apple | 2023.05 | Class와 Struct의 개념을 인형 제작 과정에 비유하여<br>시각적으로 설명한 앱으로 수상 |
-| SungKyun Tech. Open Party | 대상 | 성균관대학교 | 2023.02 | AI 기반 영어 에이전트 개발,<br>AWS 배포 및 산학연 연계 성과 전시 |
-| SW 인재 페스티벌 | 기업상 (SKT) | SW중심대학협의회 | 2022.12 | BERT 기반 AI 챗봇 및<br>영어 학습 게임 구현 |
-| 메타버스 솔루션 챌린지 | 최우수상 (과기정통부 장관상) | SW교육혁신센터 | 2022.11 | Unity 기반 메타버스 플랫폼 개발,<br>어린이 언어 습관 개선 서비스 |
-
-<br><br>
+<br>
 
 ## Projects
 
@@ -81,7 +72,7 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 > **[GitHub](링크)** | **[관련 블로그 글](링크)**
 >
 
-<br><br>
+<br>
 
 ## Tech Stack
 
@@ -126,7 +117,7 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-### DevOps / Tools / Collaboration
+### Tools / Collaboration
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -136,7 +127,6 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
 </p>
 
 <br><br>
@@ -144,3 +134,14 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 ## Algorithm & Problem Solving
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev_ted)](https://solved.ac/dev_ted)
+
+<br>
+
+## Awards
+
+| 수상명 | 구분 | 주최 | 일자 | 설명 |
+|--------|------|------|------|------|
+| Swift Student Challenge | Winner | Apple | 2023.05 | Class vs Struct 개념을 인형 제작에 비유해 시각화 |
+| SungKyun Tech. Open Party | 대상 | 성균관대 | 2023.02 | AI 영어 에이전트 개발, AWS 배포 |
+| SW 인재 페스티벌 | 기업상 (SKT) | SW중심대학협의회 | 2022.12 | BERT 기반 영어 챗봇, 학습 게임 구현 |
+| 메타버스 솔루션 챌린지 | 최우수상 (장관상) | SW교육혁신센터 | 2022.11 | Unity 기반 플랫폼 개발, 어린이 언어 습관 개선 |
