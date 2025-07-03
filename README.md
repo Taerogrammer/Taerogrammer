@@ -4,12 +4,23 @@
 플랫폼의 제약을 이해하고, 사용자에게 실질적인 가치를 주는 개발을 지향합니다.  
 Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 프론트엔드 등 다양한 환경에 빠르게 적응하며 실전 경험을 쌓았습니다.
 
+<br>
+
+## Contact & Links
+
+<p>
+<a href="https://tae-rogrammer.tistory.com/">
+  <img src="https://img.shields.io/badge/Blog-F57C00?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/taehyung-kim-716402286/"><img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Taerogrammer"><img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
 <br><br>
 
 ## Education
 
-> - [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) | 2nd | Tech | 23.03 ~ 23.12
-> - [성균관대학교 소프트웨어학과](https://cse.skku.edu/cse/index.do) | 22.03 ~
+> - [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/) | Tech | 23.03 ~ 23.12
+> - [성균관대학교](https://cse.skku.edu/cse/index.do)   | 소프트웨어학과 | 22.03 ~
 
 <br><br>
 
@@ -17,7 +28,7 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 
 | 수상명 | 수상 구분 | 주최/기관 | 수상 일자 | 설명 |
 |--------|------------|-----------|------------|------|
-| Swift Student Challenge | Winner | Apple | 2023.05 | 인형 제작 시나리오에<br>비유한 Class vs Struct 개념 설명 |
+| Swift Student Challenge | Winner | Apple | 2023.05 | Class와 Struct의 개념을 인형 제작 과정에 비유하여<br>시각적으로 설명한 앱으로 수상 |
 | SungKyun Tech. Open Party | 대상 | 성균관대학교 | 2023.02 | AI 기반 영어 에이전트 개발,<br>AWS 배포 및 산학연 연계 성과 전시 |
 | SW 인재 페스티벌 | 기업상 (SKT) | SW중심대학협의회 | 2022.12 | BERT 기반 AI 챗봇 및<br>영어 학습 게임 구현 |
 | 메타버스 솔루션 챌린지 | 최우수상 (과기정통부 장관상) | SW교육혁신센터 | 2022.11 | Unity 기반 메타버스 플랫폼 개발,<br>어린이 언어 습관 개선 서비스 |
@@ -32,6 +43,8 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 - 사용자의 위치를 기준으로 주변 디저트를 탐색하고, 주문부터 결제까지 하나의 앱에서 처리  
 - PG 결제 연동 및 소켓 기반 실시간 채팅으로 사용자 간 상호작용 강화  
 > ⏱️ 2025.05 ~ 현재 (1인 개발)
+> 
+> **[GitHub](링크)** | **[관련 블로그 글](링크)**
 
 ---
 
@@ -41,6 +54,8 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 - 다양한 수치 타입에 대한 포맷 지원, Decimal 기반 정밀 계산  
 - `os_unfair_lock` 기반의 동기화로 레이스 컨디션 방지  
 > ⏱️ 2025.03 ~ 현재 (1인 개발)
+>
+> **[GitHub](링크)** | **[관련 블로그 글](링크)**
 
 ---
 
@@ -50,18 +65,24 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 - WebSocket 기반 실시간 가격 반영, 수익률 분석 기능 제공  
 - 구조화된 스트림 처리 구조 및 정밀 수치 계산  
 > ⏱️ 2025.03 ~ 현재 (1인 개발)
+>
+> **[GitHub](링크)** | **[관련 블로그 글](링크)**
 
 ---
 
 ### 카뮤 (Carmu)  
 `UIKit`, `Firebase (Cloud Functions, Messaging, Realtime DB)`  
 **셔틀 탑승자와 기사 간 실시간 소통 도우미 앱 (출시)**  
+- **주요 역할:** 실시간 셔틀 위치 공유 기능 개발 및 Firebase 기반 서버리스 아키텍처 설계를 주도했습니다. Cloud Functions를 활용하여 푸시 알림 시스템을 구축하고 안정적인 메시지 처리를 구현했습니다.
 - 실시간 셔틀 위치 및 탑승 여부 공유 기능  
 - Firebase 기반 서버리스 푸시 구조 및 실시간 메시지 처리 적용  
 > ⏱️ 2023.09 ~ 2023.12 (6인 팀 개발)
+>
+> **[App Store](링크)** | **[GitHub](링크)** | **[관련 블로그 글](링크)**
+>
+> <img src="carmu_screenshot.png" width="250" alt="카뮤 스크린샷 예시"> 
 
 <br><br>
-
 
 ## Tech Stack
 
@@ -121,7 +142,6 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 
 <br><br>
 
-## PS
+## Algorithm & Problem Solving
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev_ted)](https://solved.ac/dev_ted)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dev_ted)](https://solved.ac/dev_ted)
