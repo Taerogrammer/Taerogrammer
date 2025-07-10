@@ -66,7 +66,7 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 
 **Links**  
 - [GitHub](https://github.com/Taerogrammer/Commelier)  
-- [Decimal을 사용해야 하는 이유](https://tae-rogrammer.tistory.com/70)
+- [Decimal을 사용해야 하는 이유](https://tae-rogrammer.tistory.com/155)
 
 ---
 
