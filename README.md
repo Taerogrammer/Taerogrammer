@@ -22,7 +22,7 @@ Swift 기반의 네이티브 iOS 개발은 물론, 서버리스 백엔드, 웹 �
 > - [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/)  
 >   Tech | 23.03 ~ 23.12
 > - [성균관대학교](https://cse.skku.edu/cse/index.do)  
->   소프트웨어학과 | 22.03 ~
+>   소프트웨어학과 | 22.03 ~ 25.08
 
 <br>
 
